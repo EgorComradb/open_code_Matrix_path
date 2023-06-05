@@ -74,7 +74,7 @@ class Draws_core:
                         elif path[1][n_ind][0] - path[1][ind][0] == -1:
                             arrow = '🠕'
                         elif path[1][n_ind][1] - path[1][ind][1] == -1:
-                            arrow = '🠖'
+                            arrow = '🠔'
                         print(path[1][ind], path[1][n_ind])
                         ind += 1
                         n_ind += 1
